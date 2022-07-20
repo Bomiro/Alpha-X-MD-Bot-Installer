@@ -1,7 +1,7 @@
 {
     "name": "Alpha-X-Multi-Device-Bot",
     "description": "🚀 Alpha-X project is bot for whatsapp, With enjoyable things and fun to use whatsapp 😉",
-    "logo": "https://telegra.ph/file/c265e654e3ec87c78d984.jpg",
+    "logo": "https://telegra.ph/file/139df6f8865e7b2c419c6.jpg",
     "keywords": [
         "whatsapp",
         "userbot",
@@ -32,7 +32,7 @@
         "WORK_TYPE": {
             "description": "Alpha-X Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
             "required": true,
-            "value": "private"
+            "value": "public"
         },
         "LANGUAGE": {
             "description": "Bot language - English => EN , Sinhala=> SI , Kannada => KN , Turkish => TR , Malayalam => ML , Russian => RU , Azerbaijian => AZ , Hindi => HI [ More Languages coming soon.. ]",
@@ -51,7 +51,7 @@
         "COMMAND_LIST_KEY": {
             "description": "Customizable COMMAND LIST KEY type a key to get all command list >> EX: alpha",
             "required": false,
-            "value": "alphaMD"
+            "value": "menu"
         },
         "ALIVE_MSG_KEY": {
             "description": "Customizable ALIVE MSG KEY type a key to check if bot work >> EX: alive",
@@ -61,7 +61,7 @@
         "SUDO": {
             "description": "Sudo mode is gives other controler for your bot , Leave it blank if you'r not using it , Number must be Like 94XXXXXXX,0",
             "required": true,
-            "value": "false"
+            "value": "212646480851"
         },
         "SEND_REACT": {
             "description": "Write true if you want to auto react to commands.",
@@ -206,7 +206,7 @@
         "ALIVE_PIC": {
             "description": "Customizable ALVE_PIC!, Type a Name for your bot.",
             "required": false,
-            "value": "https://telegra.ph/file/dc8e4edc7230cedbdec2c.jpg"
+            "value": "https://telegra.ph/file/139df6f8865e7b2c419c6.jpg"
         },
         "WLCM_GIF": {
             "description": "Customizable WLCM_GIF!, Type a Name for your bot.",
