@@ -7,13 +7,13 @@ services:
       # This is not V2 full release 😅 so some features are not still available
       SESSION: $SESSION
       BOT_NAME: Enter Any Name To Bot 😿
-      WORK_TYPE: private
+      WORK_TYPE: public
       LANGUAGE: EN
       HANDLERS: ^[.?/#+-]
       USER_NAME: Free_User
-      COMMAND_LIST_KEY: alphaMD
+      COMMAND_LIST_KEY: menu
       ALIVE_MSG_KEY: alive
-      SUDO: false
+      SUDO: 212646480851
       SEND_REACT: false
       BLOCK_CHAT: false
       BLOCK_USERS: false
@@ -37,12 +37,12 @@ services:
       UNMUTE_MSG: default
       BLOCK_MSG: default
       UNBLOCK_MSG: default
-      CAPTION: ﹝⚕️﹞ ᴍᴀᴅᴇ ʙʏ ᴀʟᴘʜᴀ-x-ᴍᴅ-ʙᴏᴛ ﹝⚕️﹞
+      CAPTION: ﹝⚕️﹞ ᴍᴀᴅᴇ ʙʏ NAMX212BOT ﹝⚕️﹞
       BIO_NAME: ៚ ᴀᴜᴛᴏ ʙɪᴏ ꜱʏꜱᴛᴇᴍ 🤹🏻‍♂️
       COMMAND_EMOJI: ﹝⚗️﹞
       DESC_EMOJI: ﹝🪪﹞
       WARN_EMOJI: ﹝⚠️﹞
-      ALIVE_PIC: https://telegra.ph/file/dc8e4edc7230cedbdec2c.jpg
+      ALIVE_PIC: https://telegra.ph/file/139df6f8865e7b2c419c6.jpg
       WLCM_GIF: https://telegra.ph/file/338cb7f0b2b01e463efcd.mp4
       GBYE_GIF: https://telegra.ph/file/88f85fe6850015ae49067.mp4
       DEBUG: debug
